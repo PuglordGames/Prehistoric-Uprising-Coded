@@ -16,7 +16,7 @@ import org.slf4j.Logger;
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(PrehistoricUprising.MOD_ID)
 public class PrehistoricUprising {
-    public static final String MOD_ID = "prehistoric_uprising";
+    public static final String MOD_ID = "prehistoricuprising";
     public static final Logger LOGGER = LogUtils.getLogger();
 
     public PrehistoricUprising() {
