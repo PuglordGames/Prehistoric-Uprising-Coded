@@ -1,5 +1,6 @@
 package net.puglordgames.prehistoricuprising.client;
 
+import net.puglordgames.prehistoricuprising.PrehistoricUprising;
 import com.google.common.collect.ImmutableSet;
 import com.mojang.authlib.minecraft.MinecraftProfileTexture;
 import net.minecraft.client.multiplayer.PlayerInfo;
