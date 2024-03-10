@@ -24,8 +24,7 @@ public class PUCapes {
     private static final ImmutableSet<String> DEV_UUID = ImmutableSet.of(
             "380df991-f603-344c-a090-369bad2a924a", // Dev (testing environment player)
             "c35e27b5-f0e7-43ee-b738-a07daf09e535", // ieguana
-            "d656f692-54a6-4fa7-94b2-f042847878be", // bartsek009
-            "f9ea8a91-0323-44e6-91ee-eff1d338cdb1", // JaedsYT
+            "d656f692-54a6-4fa7-94b2-f042847878be", // BartekNieznany.gif
             "2696f0bf-b4c4-4cfc-bc46-1720de288660"); // PuglordGames
     private static final Set<String> done = Collections.newSetFromMap(new WeakHashMap<>());
 
